@@ -1,7 +1,6 @@
 
 describe('empty spec', () => {
 
-  //Landing Page
   it('register', () => {
     cy.visit('http://167.99.253.22:3000')
     cy.wait(5000)
